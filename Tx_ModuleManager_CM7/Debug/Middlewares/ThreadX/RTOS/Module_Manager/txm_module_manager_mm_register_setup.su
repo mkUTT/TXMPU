@@ -1,0 +1,4 @@
+C:/Users/manojkumar.ch/STM32CubeIDE/Project/Tx_MPU/Middlewares/ST/threadx/ports_module/cortex_m7/gnu/module_manager/src/txm_module_manager_mm_register_setup.c:67:8:_txm_module_manager_region_size_get	24	static
+C:/Users/manojkumar.ch/STM32CubeIDE/Project/Tx_MPU/Middlewares/ST/threadx/ports_module/cortex_m7/gnu/module_manager/src/txm_module_manager_mm_register_setup.c:190:8:_txm_module_manager_calculate_srd_bits	24	static
+C:/Users/manojkumar.ch/STM32CubeIDE/Project/Tx_MPU/Middlewares/ST/threadx/ports_module/cortex_m7/gnu/module_manager/src/txm_module_manager_mm_register_setup.c:289:7:_txm_module_manager_mm_register_setup	64	static
+C:/Users/manojkumar.ch/STM32CubeIDE/Project/Tx_MPU/Middlewares/ST/threadx/ports_module/cortex_m7/gnu/module_manager/src/txm_module_manager_mm_register_setup.c:752:6:_txm_module_manager_inside_data_check	40	static
